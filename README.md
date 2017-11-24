@@ -1,2 +1,2 @@
 # master-data-science-vi-ed
-MOdificado...
+Empezando el primer dia de master..
